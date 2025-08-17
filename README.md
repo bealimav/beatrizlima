@@ -28,6 +28,7 @@
   <h2>Minhas Redes Sociais</h2>
   	<a href="https://www.instagram.com/bealimav" target="_blank"><img alt="Bia-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> 
    	<a href="https://www.linkedin.com/in/beatriz-de-oliveira-lima/" target="_blank"><img alt="Bia-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
+	  <a href = "mailto:beatrizdeoliveira.lima1302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
@@ -38,3 +39,5 @@
    	<a href="https://www.youtube.com/@active_money" target="_blank"><img alt="AC-Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a> 
 	  <a href="https://linktr.ee/_active_money?utm_source=linktree_profile_share&ltsid=ea18dbb3-d40a-42cd-bf42-ad3c2ea58cc9" target="_blank"><img alt="AC-Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"/></a>
 </div>
+
+![Snake animation](bealimav)
