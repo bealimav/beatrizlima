@@ -3,7 +3,8 @@
 **`Apaixonada por tecnologia, dados e finanças`**
 
 Sou Beatriz Lima, formada pela Etec em Desenvolvimento de Sistemas e atualmente estudando Engenharia de Software na FIAP. Hoje sou estagiária de TI no Itaú, explorando meu lado de desenvolvimento e minha paixão por dados, analytics e negócios. Amo ajudar outras pessoas, e é isso que me motiva na Active Money, empresa que cofundei para ensinar educação financeira de forma prática e acessível, mostrando às pessoas como organizar melhor seu dinheiro e tomar decisões mais conscientes.
-<br>
+<hr>
+
 ### 🤖 Tecnologias & Linguagens
 
 <div style="display: inline-block">
@@ -20,12 +21,16 @@ Sou Beatriz Lima, formada pela Etec em Desenvolvimento de Sistemas e atualmente 
     <img align="center" alt="Bia-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
 </div>
 
+<hr> 
+
 ### 👾 Estatísticas
 
 <div>
-	<img align="center" style="padding-left: 10px;" height="200" src="https://github-readme-stats.vercel.app/api?username=bealimav&show_icons=true&theme=tokyonight&locale=pt-br"/>
-	<img align="center" style="padding-left: 10px;" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealimav&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"/>
-</div><br>
+	<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=bealimav&show_icons=true&theme=tokyonight&locale=pt-br"/>
+	<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealimav&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"/>
+</div>
+
+<hr> 
 
 ### 📱 Redes Socias
 <div>
